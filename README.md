@@ -83,9 +83,9 @@
 </div>
 
 <nav>
-    <a href="README.md">主页ҳ</a>
+    <a href="C:\Users\Administrator\Desktop\Y层\index.html">主页ҳ</a>
     <a href="#library">图书馆</a>
-    <a href="lxwm">联系我们</a>
+    <a href="C:\Users\Administrator\Desktop\Y层\lxwm.html">联系我们</a>
 </nav>
 
 <div class="top-padding"></div>
