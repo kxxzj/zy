@@ -83,9 +83,9 @@
 </div>
 
 <nav>
-    <a href="index.html">主页ҳ</a>
+    <a href="自述文件.md">主页ҳ</a>
     <a href="#library">图书馆</a>
-    <a href="lxwm.html">联系我们</a>
+    <a href="lxwm">联系我们</a>
 </nav>
 
 <div class="top-padding"></div>
