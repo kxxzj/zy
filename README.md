@@ -83,7 +83,7 @@
 </div>
 
 <nav>
-    <a href="自述文件.md">主页ҳ</a>
+    <a href="README.md">主页ҳ</a>
     <a href="#library">图书馆</a>
     <a href="lxwm">联系我们</a>
 </nav>
