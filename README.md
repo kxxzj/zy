@@ -83,9 +83,9 @@
 </div>
 
 <nav>
-    <a href="https://backrooms-wiki-cn.wikidot.com">主页ҳ</a>
+    <a href="index.html">主页ҳ</a>
     <a href="#library">图书馆</a>
-    <a href="#contact">联系我们</a>
+    <a href="lxwm.html">联系我们</a>
 </nav>
 
 <div class="top-padding"></div>
