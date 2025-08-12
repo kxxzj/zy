@@ -105,31 +105,31 @@
             </div>
             <div class="text-box">
                 <h3>最近新增子层级</h3>
-                <p>��ϸ��Ϣ...</p>
+                <p>Level Y-32.1 难民集中营<br>Level Y-162.1 南郊<br>Level Y-162.7 孤独之旅</p>
             </div>
             <div class="text-box">
                 <h3>最近新增隐秘层级</h3>
-                <p>��ϸ��Ϣ...</p>
+                <p>隐秘层级：悔恨<br>隐秘层级：朝圣者之路<br>隐秘层级：褪色</p>
             </div>
             <div class="text-box">
                 <h3>最近新增实体 Entity</h3>
-                <p>��ϸ��Ϣ...</p>
+                <p>Entity Y-15 眼睛<br>Entity Y-5 书本<br>Entity Y-7 花魇</p>
             </div>
             <div class="text-box">
                 <h3>最近新增物品 Object</h3>
-                <p>��ϸ��Ϣ...</p>
+                <p>Object Y-6 置换银镜<br>Object Y-7 军用口粮<br>Object Y-300 层级手稿</p>
             </div>
             <div class="text-box">
                 <h3>最近新增现象 Phenomenon</h3>
-                <p>��ϸ��Ϣ...</p>
+                <p>Phenomenon Y-3 防空警报<br>Phenomenon Y-6 血雨<br>Phenomenon Y-14 停功</p>
             </div>
             <div class="text-box">
                 <h3>最近新增事件 Know</h3>
-                <p>��ϸ��Ϣ...</p>
+                <p>暂无</p>
             </div>
             <div class="text-box">
                 <h3>最近新增特殊物品 Things</h3>
-                <p>��ϸ��Ϣ...</p>
+                <p>Things 4 死神之镰</p>
             </div>
         </div>
     </section>
