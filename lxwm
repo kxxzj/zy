@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Backrooms Y层群</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff9c4;
+        }
+        .header-textbox {
+            background-color: #000000;
+            color: white;
+            text-align: center;
+            padding: 1em 20px;
+            width: 100%;
+            box-sizing: border-box;
+            position: fixed;
+            top: 0;
+            z-index: 1000;
+        }
+        nav {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            background-color: #808080;
+            width: 100%;
+            box-sizing: border-box;
+            padding: 10px 20px;
+            margin-top: 50px;
+            position: fixed;
+            top: 50px;
+            z-index: 1000;
+        }
+        nav a {
+            color: white;
+            padding: 10px 15px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #535353;
+        }
+        .top-padding {
+            height: 1200px; /* ����Ϊ1200px */
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        .text-box {
+            background-color: #fff9c4;
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-top: 10px;
+        }
+        .background-setting {
+            width: 100%;
+            box-sizing: border-box;
+            padding: 0 20px;
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+        @media (max-width: 768px) {
+            .grid-container {
+                grid-template-columns: 1fr;
+            }
+        }
+        .large-title {
+            font-size: 2em;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 20px;
+        }
+        .main-content {
+            background-color: #fff9c4;
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin-top: 20px;
+            max-width: 800px; /* ���������� */
+            margin-left: auto;
+            margin-right: auto; /* ���ж��� */
+        }
+    </style>
+</head>
+<body>
+
+<div class="header-textbox">
+    <h1>The Backrooms Y层群</h1>
+</div>
+
+<nav>
+    <a href="C:\Users\Administrator\Desktop\Y层\index.html">主页</a>
+    <a href="#library">图书馆</a>
+    <a href="C:\Users\Administrator\Desktop\Y层\lxwm.html">联系我们</a>
+</nav>
+
+<div class="top-padding"></div>
+
+<main>
+    <section id="contact" class="background-setting">
+        <div class="large-title">
+            联系我们
+        </div>
+        <div class="main-content">
+            <!-- ��Ҫ���� -->
+            <p>如果有任何能激起您兴趣的方面，请致邮箱2634290246@qq.com<br>如果想加入我们，可加qq群331715854</p>
+        </div>
+    </section>
+</main>
+
+</body>
+</html>
