@@ -83,9 +83,9 @@
 </div>
 
 <nav>
-    <a href="README.md">主页ҳ</a>
+    <a href="https://kxxzj.github.io/zy">主页ҳ</a>
     <a href="#library">图书馆</a>
-    <a href="lxwm">联系我们</a>
+    <a href="https://kxxzj.github.io/zy/lxwm">联系我们</a>
 </nav>
 
 <div class="top-padding"></div>
